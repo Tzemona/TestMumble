@@ -1,43 +1,55 @@
 ﻿SOFT SKILLS
 * In che modo il tuo percorso universitario e professionale ti ha preparato per questo ruolo?
-* Cosa ti aspetti da questo percorso? Quali skills/competenze vuoi acquisire?
+Permettendomi di sviluppare un alto grado di adattamento all'ambiente di lavoro. Sia in contesti universitari che professionali è stato indispensabile 
+valutare velocemente quali fossero le problematiche e le priorità ad esse relative da affrontare, il tutto con colleghi e responsabili di progetto 
+sempre nuovi.
+* Cosa ti aspetti da questo percorso? Quali skills/competenze vuoi acquisire? 
+Mi aspetto di consolidare nuovi metodi ed approcci alla risoluzione di problemi, in termini di forma mentis in generale e capacità tecniche nel particolare.
 * Per te il software development è... Spiegacelo in massimo 500 caratteri. Se citi fonti esterne, ricordati di attribuire la provenienza.
+Processo di creazione di sofware che richiede una combinazione di: capacità di ascolto delle esigenze del cliente/del progetto, competenze tecniche e continua formazione.
 * Fra 10 anni, quali sono le 3 cose che vorresti non mancassero nella tua vita professionale?
-* Qual è l'azienda per cui, se arrivasse un'offerta, molleresti tutto senza pensarci un attimo? Perché?
+-  Definizione delle responsabilità di ruolo
+-  Maggiore stabilità
+-  Formazione continua
+* Qual è l'azienda per cui, se arrivasse un'offerta, molleresti tutto senza pensarci un attimo? Perché? Musixmatch.
+Mi sembra una realtà giovane con possibilità di crescita.
 * Piramide dei valori
    * Dal mio lavoro vorrei la possibilità di... (metti in ordine questi aspetti da 1 (più importante) a 10 (meno importante): 
-      * Avere più responsabilità (team lead, referente progetto, etc.)
-      * Crescere professionalmente (corsi, carriera, etc.)
-      * Guadagnare di più (stipendio, bonus, benefit, computer, auto, cellulare, etc.)
-      * Gestire liberamente il mio tempo (orari flessibili, lavoro da casa, etc.)
-      * Gestire il flusso di lavoro in autonomia (hai obiettivo ma definisci tu come arrivarci, sei responsabile del tuo output, etc.)
-      * Lavorare su nuovi progetti (poter sperimentare, creare, inventare nuove soluzioni, etc.)
-      * Formare altri colleghi (crescere tirocinanti, supportare i colleghi a raggiungere gli obiettivi, etc.)
-      * Proporre nuove iniziative per migliorare l'ambiente di lavoro (team building, coaching, feedback, etc.)
-      * Partecipare con il team a delle attività di gruppo (creare armonia, team building, etc.)
-      * Scegliere il proprio gruppo di lavoro in autonomia, in base al task che si deve completare
+      9 Avere più responsabilità (team lead, referente progetto, etc.)
+      3 Crescere professionalmente (corsi, carriera, etc.)
+      2 Guadagnare di più (stipendio, bonus, benefit, computer, auto, cellulare, etc.)
+      1 Gestire liberamente il mio tempo (orari flessibili, lavoro da casa, etc.)
+      4 Gestire il flusso di lavoro in autonomia (hai obiettivo ma definisci tu come arrivarci, sei responsabile del tuo output, etc.)
+      6 Lavorare su nuovi progetti (poter sperimentare, creare, inventare nuove soluzioni, etc.)
+      5 Formare altri colleghi (crescere tirocinanti, supportare i colleghi a raggiungere gli obiettivi, etc.)
+      8 Proporre nuove iniziative per migliorare l'ambiente di lavoro (team building, coaching, feedback, etc.)
+      7 Partecipare con il team a delle attività di gruppo (creare armonia, team building, etc.)
+      10 Scegliere il proprio gruppo di lavoro in autonomia, in base al task che si deve completare
    * Per i primi 3, spiega in massimo 3 righe cosa rappresentano per te (con esempi se vuoi) e perché li hai messi in una posizione così importante.
+   Ho scoperto di poter essere più produttiva scegliendo liberamente come gestire il mio tempo.
+   In passato ho investito molto in progetti di cui riconoscevo il valore accrescitvo, facendo compromessi sulla remunerazione. Nel mio caso questo approccio ha finito per svalutare le responsabilità che ricoprivo.
+   Mi piace mettermi in gioco e pensare di poter migliorare, sapendo di poter crescere professionalmente sono più motivata.
 * Come ti comporti quando… (Di seguito trovi alcune situazioni in cui potresti ritrovarti. Scegli la risposta che più si avvicina al tuo pensiero e, se vuoi, scrivici sotto il motivo o delle precisazioni, se lo ritieni necessario).
    * Ti assegnano un task che non hai mai affrontato prima
-      * A: Spendi il 95% del tempo nella pianificazione e cominci a fare solo quando il piano è perfetto
-      * B: Provi subito a fare, capisci quali sono i problemi, pianifichi come risolverli e li affronti uno ad uno.
-      * C: Ti butti di testa, creando qualcosa di superficiale per ricevere subito un primo feedback da chi ti ha dato un incarico, per capire se stai andando nella giusta direzione. Poi, ottimizzi in base al feedback ottenuto.
+        A: Spendi il 95% del tempo nella pianificazione e cominci a fare solo quando il piano è perfetto
+        B: Provi subito a fare, capisci quali sono i problemi, pianifichi come risolverli e li affronti uno ad uno.
+        C: Ti butti di testa, creando qualcosa di superficiale per ricevere subito un primo feedback da chi ti ha dato un incarico, per capire se stai andando nella giusta direzione. Poi, ottimizzi in base al feedback ottenuto.
       * D: Pianifichi a blocchi, fai domande per capire esattamente cosa è richiesto ed esegui il lavoro a step. Alla fine di ogni step, ti confronti con chi ti ha assegnato il task per capire se ti stai muovendo nel modo corretto.
    * Un collega mette in discussione il tuo lavoro dicendo che si aspettava qualcosa di diverso
-      * A: Cerchi di controllare le emozioni ed analizzare il tuo lavoro in modo oggettivo per capire se le critiche del collega sono fondate.
+        A: Cerchi di controllare le emozioni ed analizzare il tuo lavoro in modo oggettivo per capire se le critiche del collega sono fondate.
       * B: Gli chiedi una sessione di feedback individuale per approfondire le sue critiche e capire esattamente qual è il suo punto di vista.
-      * C: Vai dal tuo responsabile e gli chiedi spiegazioni, portando il task che il collega ti aveva assegnato e il risultato che hai prodotto, chiedendo a lui un parere esterno.
-      * D: Rifai il lavoro secondo quello che pensi il collega si aspetti da te e glielo invii direttamente per chiedergli se ora si avvicina alle sue aspettative.
+        C: Vai dal tuo responsabile e gli chiedi spiegazioni, portando il task che il collega ti aveva assegnato e il risultato che hai prodotto, chiedendo a lui un parere esterno.
+        D: Rifai il lavoro secondo quello che pensi il collega si aspetti da te e glielo invii direttamente per chiedergli se ora si avvicina alle sue aspettative.
    * Ti viene chiesto di fare straordinari o lavorare nel weekend
-      * A: Inventi una scusa per non doverlo fare ma senza dover dire di no. Recupererai lunedì e tutti si dimenticheranno di questa cosa.
-      * B: Chiedi al tuo responsabile una spiegazione chiara delle tempistiche del lavoro e la motivazione per cui questo debba assolutamente essere terminato. Se la motivazione non fosse valida, ne discuteresti apertamente con lui.
-      * C: Resti per dimostrare che ci tieni. Purtroppo sai che viene richiesto a molti e lo accetti come una condizione normale a cui devi fare l'abitudine.
+        A: Inventi una scusa per non doverlo fare ma senza dover dire di no. Recupererai lunedì e tutti si dimenticheranno di questa cosa.
+        B: Chiedi al tuo responsabile una spiegazione chiara delle tempistiche del lavoro e la motivazione per cui questo debba assolutamente essere terminato. Se la motivazione non fosse valida, ne discuteresti apertamente con lui.
+        C: Resti per dimostrare che ci tieni. Purtroppo sai che viene richiesto a molti e lo accetti come una condizione normale a cui devi fare l'abitudine.
       * D: Lo fai ma cerchi di tenere il conto delle volte che accade per far si che non diventi un'abitudine troppo frequente.   
    * Tutti i tuoi colleghi pensano che la soluzione X sia la migliore, mentre tu pensi la Y sia quella giusta
-      * A: Se tutti pensano così, ci sarà un motivo. Dici di essere d'accordo con loro anche se non lo sei per evitare di esporti.
+        A: Se tutti pensano così, ci sarà un motivo. Dici di essere d'accordo con loro anche se non lo sei per evitare di esporti.
       * B: Mentre se ne discute, dici chiaramente che per te la soluzione Y è quella più adatta, motivando la tua idea e discutendone con i colleghi.
-      * C: Ti confronti con il tuo responsabile per capire se secondo lui la soluzione Y sia assolutamente sbagliata. Non vuoi fare brutte figure, quindi cerchi di capire prima cosa ne pensa lui.
-      * D: Cerchi di prendere i colleghi uno alla volta e capire perché secondo loro la soluzione X è migliore della Y. Magari possono insegnarti qualcosa senza che tu debba per forza esporre il tuo pensiero.
+        C: Ti confronti con il tuo responsabile per capire se secondo lui la soluzione Y sia assolutamente sbagliata. Non vuoi fare brutte figure, quindi cerchi di capire prima cosa ne pensa lui.
+        D: Cerchi di prendere i colleghi uno alla volta e capire perché secondo loro la soluzione X è migliore della Y. Magari possono insegnarti qualcosa senza che tu debba per forza esporre il tuo pensiero.
 HARD SKILLS
 * Regole generali: 
    * Svolgi TUTTI gli esercizi qui di seguito in una repository di github di cui ci invierai poi il link.
