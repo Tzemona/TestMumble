@@ -1,0 +1,85 @@
+﻿SOFT SKILLS
+* In che modo il tuo percorso universitario e professionale ti ha preparato per questo ruolo?
+* Cosa ti aspetti da questo percorso? Quali skills/competenze vuoi acquisire?
+* Per te il software development è... Spiegacelo in massimo 500 caratteri. Se citi fonti esterne, ricordati di attribuire la provenienza.
+* Fra 10 anni, quali sono le 3 cose che vorresti non mancassero nella tua vita professionale?
+* Qual è l'azienda per cui, se arrivasse un'offerta, molleresti tutto senza pensarci un attimo? Perché?
+* Piramide dei valori
+   * Dal mio lavoro vorrei la possibilità di... (metti in ordine questi aspetti da 1 (più importante) a 10 (meno importante): 
+      * Avere più responsabilità (team lead, referente progetto, etc.)
+      * Crescere professionalmente (corsi, carriera, etc.)
+      * Guadagnare di più (stipendio, bonus, benefit, computer, auto, cellulare, etc.)
+      * Gestire liberamente il mio tempo (orari flessibili, lavoro da casa, etc.)
+      * Gestire il flusso di lavoro in autonomia (hai obiettivo ma definisci tu come arrivarci, sei responsabile del tuo output, etc.)
+      * Lavorare su nuovi progetti (poter sperimentare, creare, inventare nuove soluzioni, etc.)
+      * Formare altri colleghi (crescere tirocinanti, supportare i colleghi a raggiungere gli obiettivi, etc.)
+      * Proporre nuove iniziative per migliorare l'ambiente di lavoro (team building, coaching, feedback, etc.)
+      * Partecipare con il team a delle attività di gruppo (creare armonia, team building, etc.)
+      * Scegliere il proprio gruppo di lavoro in autonomia, in base al task che si deve completare
+   * Per i primi 3, spiega in massimo 3 righe cosa rappresentano per te (con esempi se vuoi) e perché li hai messi in una posizione così importante.
+* Come ti comporti quando… (Di seguito trovi alcune situazioni in cui potresti ritrovarti. Scegli la risposta che più si avvicina al tuo pensiero e, se vuoi, scrivici sotto il motivo o delle precisazioni, se lo ritieni necessario).
+   * Ti assegnano un task che non hai mai affrontato prima
+      * A: Spendi il 95% del tempo nella pianificazione e cominci a fare solo quando il piano è perfetto
+      * B: Provi subito a fare, capisci quali sono i problemi, pianifichi come risolverli e li affronti uno ad uno.
+      * C: Ti butti di testa, creando qualcosa di superficiale per ricevere subito un primo feedback da chi ti ha dato un incarico, per capire se stai andando nella giusta direzione. Poi, ottimizzi in base al feedback ottenuto.
+      * D: Pianifichi a blocchi, fai domande per capire esattamente cosa è richiesto ed esegui il lavoro a step. Alla fine di ogni step, ti confronti con chi ti ha assegnato il task per capire se ti stai muovendo nel modo corretto.
+   * Un collega mette in discussione il tuo lavoro dicendo che si aspettava qualcosa di diverso
+      * A: Cerchi di controllare le emozioni ed analizzare il tuo lavoro in modo oggettivo per capire se le critiche del collega sono fondate.
+      * B: Gli chiedi una sessione di feedback individuale per approfondire le sue critiche e capire esattamente qual è il suo punto di vista.
+      * C: Vai dal tuo responsabile e gli chiedi spiegazioni, portando il task che il collega ti aveva assegnato e il risultato che hai prodotto, chiedendo a lui un parere esterno.
+      * D: Rifai il lavoro secondo quello che pensi il collega si aspetti da te e glielo invii direttamente per chiedergli se ora si avvicina alle sue aspettative.
+   * Ti viene chiesto di fare straordinari o lavorare nel weekend
+      * A: Inventi una scusa per non doverlo fare ma senza dover dire di no. Recupererai lunedì e tutti si dimenticheranno di questa cosa.
+      * B: Chiedi al tuo responsabile una spiegazione chiara delle tempistiche del lavoro e la motivazione per cui questo debba assolutamente essere terminato. Se la motivazione non fosse valida, ne discuteresti apertamente con lui.
+      * C: Resti per dimostrare che ci tieni. Purtroppo sai che viene richiesto a molti e lo accetti come una condizione normale a cui devi fare l'abitudine.
+      * D: Lo fai ma cerchi di tenere il conto delle volte che accade per far si che non diventi un'abitudine troppo frequente.   
+   * Tutti i tuoi colleghi pensano che la soluzione X sia la migliore, mentre tu pensi la Y sia quella giusta
+      * A: Se tutti pensano così, ci sarà un motivo. Dici di essere d'accordo con loro anche se non lo sei per evitare di esporti.
+      * B: Mentre se ne discute, dici chiaramente che per te la soluzione Y è quella più adatta, motivando la tua idea e discutendone con i colleghi.
+      * C: Ti confronti con il tuo responsabile per capire se secondo lui la soluzione Y sia assolutamente sbagliata. Non vuoi fare brutte figure, quindi cerchi di capire prima cosa ne pensa lui.
+      * D: Cerchi di prendere i colleghi uno alla volta e capire perché secondo loro la soluzione X è migliore della Y. Magari possono insegnarti qualcosa senza che tu debba per forza esporre il tuo pensiero.
+HARD SKILLS
+* Regole generali: 
+   * Svolgi TUTTI gli esercizi qui di seguito in una repository di github di cui ci invierai poi il link.
+   * Ricordati che l'obiettivo principale è scrivere codice che funziona, certo, ma anche che altri esseri umani possono facilmente comprendere. Dove credi sia necessario, inserisci commenti.
+   * Per completare gli esercizi, puoi utilizzare un linguaggio a scelta fra Javascript, PHP o Python.
+   * Se hai domande, scrivi a board@mumbleideas.it. Ricordati di formulare le tue domande in modo chiaro, riportando esempi chiari. In linea di massima, ti consigliamo di non fare domande, leggere bene il testo dell'esercizio e fidarti del tuo intuito.
+   * Per gli esercizi in cui esistono diversi livelli, fai del tuo meglio per risolverli tutti. Non cancellare o sovrascrivere il codice del livello precedente; commentalo e lascialo nello stesso file.
+* Quick quiz
+   * Analizza palindromi: crea una funzione che ritorni true in caso la stringa passata come argument sia palindroma o false in caso non lo fosse.
+      * Livello 1: rileva il palindromo soltanto se la stringa non contiene spazi o altri simboli e le lettere sono tutte minuscole
+      * Test da superare:
+palindromo('radar') // => true
+palindromo('sonar') // => false
+
+      * Livello 2: rileva il palindromo anche in caso la stringa contenga spazi e contenga lettere maiuscole
+      * Test da superare:
+palindromo("Ena sellava cavalle sane") // => true
+palindromo("A caval donato") // => false
+
+
+   * Conta le vocali:
+      * Livello 1: Scrivi una funzione che conti il numero totale di vocali contenute in una stringa
+      * Test da superare:
+contaVocali('cammello') // => 3
+contaVocali('arcobaleno') // => 5
+
+      * Livello 2: Scrivi una funzione che conti il numero di vocali in una stringa e ritorni il risultato sotto forma di oggetto contenente tutte le vocali e il rispettivo conteggio
+      * Test da superare:
+contaVocali('Come vola sto cammello') 
+// => {a: 2, e: 2, i: 0, o: 4, u: 0} 
+
+
+
+
+
+   * Da incorniciare:
+      * Scrivi una funzione che riceve una lista di stringhe e le stampa, una ogni riga, in una cornice rettangolare del carattere che vuoi (nell’esempio, usiamo l’asterisco).
+      * Esempio: la lista ["Terra", "chiama", "Mumble,", "Mumble", "rispondi!"] sarà stampata cosí:
+*************
+* Terra     *
+* chiama    *
+* Mumble,   *
+* Mumble    *
+* rispondi! *
+*************
